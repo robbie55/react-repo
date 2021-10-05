@@ -10,3 +10,4 @@ I need to fix this
 ## Local Development
 
 1. Open index.htnml in your browser.
+2. uh oh! this was a mistake!!!
